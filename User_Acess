@@ -1,0 +1,11 @@
+nome=input("Usuário: ")
+#senha=input("Senha: ")
+if nome=="Rodrigo":
+    senha=input("Senha: ")
+    
+    if senha=="13u13u":
+        print("Bem vindo, Rodrigo!")
+    else:
+        print("Senha errada!")
+else:
+    print("Usuário errado!")
